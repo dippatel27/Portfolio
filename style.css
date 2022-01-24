@@ -539,6 +539,14 @@ textarea {
     body {
         padding: 0;
     }
+    .home_container {
+        /* margin: 2% 4% 2% 4%;
+        padding: 4%;
+        border-radius: 2%;
+        min-height: 50vh; */
+        box-shadow: none;
+        margin: 2%;
+    }
 }
 
 @media (max-width:400px) {
